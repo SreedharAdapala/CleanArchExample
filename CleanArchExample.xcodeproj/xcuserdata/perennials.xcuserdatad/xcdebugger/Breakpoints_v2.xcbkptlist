@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "35C5471D-0627-4122-9CD7-39A55212ED6B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "182A614F-889B-4553-A403-02B2773719FA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CleanArchExample/TodoListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "setRepositoryCode()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "182A614F-889B-4553-A403-02B2773719FA - 9d5bd3bdfefc536d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CleanArchExample.TodoListViewController.setRepositoryCode() -&gt; ()"
+                  moduleName = "CleanArchExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/perennials/Documents/GitHub/CleanArchExample/CleanArchExample/TodoListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "372">
+               </Location>
+               <Location
+                  uuid = "182A614F-889B-4553-A403-02B2773719FA - 9d5bd3bdfefc5253"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CleanArchExample.TodoListViewController.setRepositoryCode() -&gt; ()"
+                  moduleName = "CleanArchExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/perennials/Documents/GitHub/CleanArchExample/CleanArchExample/TodoListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "208">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
